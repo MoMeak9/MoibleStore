@@ -1,4 +1,4 @@
-# 商城
+# 商城仿写
 
 ## Project setup
 ```
@@ -21,7 +21,7 @@ assets/config/api.js
 
 
 
-### 技术：
+### 技术栈：
 
 1-vant ui框架
 
